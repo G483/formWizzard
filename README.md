@@ -1,4 +1,4 @@
 To run the app locally simply run:
 
-> npm install
+> npm install\
 > npm start
