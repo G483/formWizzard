@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+form > div {
+	margin-bottom: 10px;
+}
+
+select {
+	display: block;
+    margin: .25em 0;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    padding: .5em .6em;
+    box-shadow: inset 0 1px 3px #ddd;
+    border-radius: 4px;
+    vertical-align: middle;
+    box-sizing: border-box;
+}
+
+button {
+	background-color: #0078e7;
+    color: #fff;
+    font-family: inherit;
+    font-size: 100%;
+    text-decoration: none;
+    text-align: center;
+    padding: .5em 1em;
+    border: 1px solid #999;
+    border: transparent;
+    border-radius: 2px;
+    display: inline-block;
+    zoom: 1;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-drag: none;
+	margin-right: 5px;
+}
+
+input[type=checkbox] {
+    box-sizing: border-box;
+    padding: 0;
+    -webkit-appearance: checkbox;
+}
+
+input[type=text],
+input[type=email]{
+    display: block;
+    margin: .25em 0;
+    padding: .5em .6em;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-shadow: inset 0 1px 3px #ddd;
+    border-radius: 4px;
+    vertical-align: middle;
+    box-sizing: border-box;
+}
+
+#root {
+    width: 40%;
+    background-color: #dedede;
+}
