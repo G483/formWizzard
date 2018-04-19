@@ -1,3 +1,4 @@
-To run the app simply:
-npm install
-npm start
+To run the app locally simply run:
+
+> npm install
+> npm start
